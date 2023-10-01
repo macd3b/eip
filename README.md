@@ -1,2 +1,2 @@
-# eip
+# EIP
 Elements of programming intervews
